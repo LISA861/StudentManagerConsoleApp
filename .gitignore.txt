@@ -1,0 +1,26 @@
+# Ignore Visual Studio temporary files, build results, and other junk
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Visual Studio cache
+.vs/
+
+# Auto-generated files
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# NuGet
+packages/
+*.nupkg
